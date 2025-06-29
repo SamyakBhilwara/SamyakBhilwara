@@ -1,3 +1,3 @@
 # Bhilwara Computer Hub Website
 
-Built with Next.js.
+Landing page built using Next.js.
