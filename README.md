@@ -1,3 +1,3 @@
 # Bhilwara Computer Hub Website
 
-Built with Next.js + Tailwind CSS.
+Built with Next.js.
