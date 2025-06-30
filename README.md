@@ -1,3 +1,2 @@
-# Bhilwara Computer Hub Website
-
-Landing page built using Next.js.
+# Bhilwara Computer Hub
+Final version with updated design, logo, WhatsApp, and responsive layout.
